@@ -13,6 +13,8 @@ l = [1, 2, 3, 4]
 
 # Question: How do you access the elements in index 0 and 3? Print the results.
 ## NOTE: lists retain the order of elements in it but dictionary doesn't
+print(l[0])
+print(l[3])
 
 ## Dictionary: A collection of key-value pairs, where each key is mapped to a value using a hash function. Provides fast data retrieval based on keys.
 d = {'a': 1, 'b': 2}
